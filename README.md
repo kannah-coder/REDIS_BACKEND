@@ -4,6 +4,7 @@
 
 This project demonstrates a backend system using **Redis** for various operations like caching, data storage, streams, lists, and geospatial data. It is built with **Node.js** and uses Redis as the main in-memory data store.
 
+it is temporary data storage.
 Redis is ideal for applications that require **high-speed access** to frequently used data.
 
 ---
@@ -120,6 +121,7 @@ await client.publish("channel1", "Hello subscribers!");
 
 ---
 
-This README can serve as a **complete guide** for anyone using your Redis backend project.
+ 
+
 
 
