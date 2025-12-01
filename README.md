@@ -9,6 +9,31 @@ Redis is ideal for applications that require **high-speed access** to frequently
 
 ---
 
+REDIS_BACKEND/
+│
+├── node_modules/
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+│
+├── client.js
+├── myclient.js
+│
+├── 01-string.js   <-- (NEW: this is your string.js file)
+├── 02-list.js
+├── 03-sets.js
+├── 04-HashSet.js
+├── 05-sortedSet.js
+├── 06-streams.js
+├── 07-geo.js
+├── 08-pubsub.js
+│
+├── practice.js
+└── README.md
+
+---
+
 ## Features
 
 * Store and retrieve simple key-value pairs
@@ -122,6 +147,7 @@ await client.publish("channel1", "Hello subscribers!");
 ---
 
  
+
 
 
 
