@@ -137,16 +137,11 @@ await client.publish("channel1", "Hello subscribers!");
 * Use geospatial commands for location-based data efficiently
 
 ---
-
-## References
-
-* [Redis Official Documentation](https://redis.io/docs/)
-* [Node.js Redis Client](https://www.npmjs.com/package/redis)
-* [GitHub Git Basics](https://docs.github.com/en/get-started/using-git)
-
+THANK YOU
 ---
 
  
+
 
 
 
