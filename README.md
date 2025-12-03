@@ -18,6 +18,7 @@ REDIS_BACKEND/
 ├── package-lock.json
 │
 ├── client.js
+├── example.js
 ├── myclient.js
 │
 ├── 01-string.js   <-- (NEW: this is your string.js file)
@@ -141,6 +142,7 @@ THANK YOU
 ---
 
  
+
 
 
 
